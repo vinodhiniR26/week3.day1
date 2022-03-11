@@ -7,4 +7,10 @@ public class Desktop extends Computer{
 	}
 	
 	
+	public static void  main(String[] args]{
+		Desktop sp = newDesktop();
+		sp.desktopSize();
+		sp.computerModel();
+		
+	
 }
